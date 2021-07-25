@@ -1,0 +1,26 @@
+{
+  "name": "valida",
+  "version": "0.0.1",
+  "description": "Validar CPF",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/batistajb/valida.git"
+  },
+  "keywords": [
+    "cpf",
+    "validar"
+  ],
+  "author": "João Batista <batistadasilvaalvesjoao@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batistajb/valida/issues"
+  },
+  "homepage": "https://github.com/batistajb/valida#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
