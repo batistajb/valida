@@ -1,4 +1,4 @@
-# Função para validar CPF ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/batistajb/valida/Node.js%20CI?label=GitHub%20Actions&logo=github&style=plastic)
+# Função para validar CPF ![npm (scoped)](https://img.shields.io/npm/v/@batistajb/valida?label=version) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/batistajb/valida/Node.js%20CI?label=GitHub%20Actions&logo=github&style=plastic)
 
 
 
