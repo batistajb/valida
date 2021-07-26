@@ -6,6 +6,9 @@
   "scripts": {
     "test": "jest tests"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/batistajb/valida.git"
