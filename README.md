@@ -2,16 +2,14 @@
 
 
 
-
-
-##Para usar  via npm
+<h2>Para usar  via npm </h1>
 
 ```
 $ npm install @batistajb/valida
 ```
 
+<h2>Para usar  via clone </h1>
 
-##Para usar  via clone
 
 Retorna true se o cpf for válido ou false caso não seja válido
 
@@ -19,7 +17,7 @@ Retorna true se o cpf for válido ou false caso não seja válido
 $ npm install
 ```
 
-###Teste
+<h2>Teste</h2>
 
 ```
 $ npm run test
