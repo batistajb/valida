@@ -1,4 +1,4 @@
-# Função para validar CPF 
+# Função para validar CPF ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/batistajb/valida/Node.js%20CI?label=GitHub%20Actions&logo=github&style=plastic)
 
 
 
