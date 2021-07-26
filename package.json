@@ -1,5 +1,5 @@
 {
-  "name": "valida",
+  "name": "@batistajb/valida",
   "version": "0.0.1",
   "description": "Validar CPF",
   "main": "index.js",
