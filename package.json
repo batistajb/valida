@@ -1,13 +1,14 @@
 {
   "name": "@batistajb/valida",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "Validar CPF",
   "main": "index.js",
+  "preferGlobal": true,
   "scripts": {
     "test": "jest tests"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": " https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",

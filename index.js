@@ -14,4 +14,5 @@ function validacpf(cpf) {
     return !(rest(10, 2) !== validator[0] || rest(11, 1) !== validator[1])
 }
 
+
 exports.cpf = validacpf;
