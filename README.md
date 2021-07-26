@@ -7,7 +7,7 @@
 ##Para usar  via npm
 
 ```
-$ npm install @batistajb/valida@0.0.1
+$ npm install @batistajb/valida
 ```
 
 
