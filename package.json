@@ -1,6 +1,6 @@
 {
   "name": "@batistajb/valida",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Validar CPF",
   "main": "index.js",
   "preferGlobal": true,
@@ -21,7 +21,7 @@
     "cpf",
     "validar"
   ],
-  "author": "João Batista <batistadasilvaalvesjoao@gmail.com>",
+  "author": "João Batista <contato@batistajb.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/batistajb/valida/issues"
