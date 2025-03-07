@@ -53,5 +53,3 @@ jobs:
         run: npm config set //npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}
 
       - run: npm publish
-        env:
-          NODE_AUTH_TOKEN: ${{ GITHUB_TOKEN }}
