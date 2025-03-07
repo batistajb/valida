@@ -50,6 +50,6 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Set token npm
-        run: npm config set //npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}
+        run: npm config set //npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}
 
       - run: npm publish
