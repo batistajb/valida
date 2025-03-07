@@ -1,6 +1,6 @@
 {
   "name": "@batistajb/valida",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Validar CPF",
   "main": "dist/index.js",
   "preferGlobal": true,
