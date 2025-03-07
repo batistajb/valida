@@ -21,6 +21,13 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Check version
+        run: |
+          if [ "$(git diff HEAD^ HEAD -- package.json | grep '\"version\"')" == "" ]; then
+            echo "Version not updated in package.json"
+            exit 1
+          fi
+
       - name: Build package
         run: npm run build --if-present
 
