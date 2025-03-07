@@ -1,11 +1,12 @@
 {
   "name": "@batistajb/valida",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Validar CPF",
-  "main": "index.js",
+  "main": "dist/index.js",
   "preferGlobal": true,
   "scripts": {
-    "test": "jest tests"
+    "test": "jest",
+    "build": "tsc"
   },
   "engines": {
     "node": ">=12.0.0"
@@ -28,6 +29,8 @@
   },
   "homepage": "https://github.com/batistajb/valida#readme",
   "devDependencies": {
-    "jest": "^27.0.6"
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.6"
   }
 }

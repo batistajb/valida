@@ -1,4 +1,4 @@
-const valida = require('../index');
+const valida = require('../dist');
 
 test("Retorna true se cpf válido", ()=>{
 
